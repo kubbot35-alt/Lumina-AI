@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lumina AI</string>
+    <string name="tab_studio">Studio AI</string>
+    <string name="tab_gallery">Galeria</string>
+    <string name="prompt_hint">Opisz obraz, który chcesz stworzyć…</string>
+    <string name="btn_enhance_prompt">Ulepsz prompt (AI)</string>
+    <string name="btn_generate">Generuj Obraz</string>
+    <string name="resolution_label">Rozdzielczość:</string>
+    <string name="aspect_ratio_label">Format obrazu:</string>
+    <string name="save_to_device">Zapisz w telefonie</string>
+    <string name="saved_to_gallery_success">Zapisano pomyślnie w galerii urządzenia!</string>
+    <string name="save_failed">Nie udało się zapisać obrazu.</string>
+</resources>

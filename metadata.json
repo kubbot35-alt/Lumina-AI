@@ -1,0 +1,6 @@
+{
+  "name": "Lumina AI",
+  "description": "Generator obrazów AI z ulepszaniem promptów, obsługą 1K/2K/4K, zapisem do galerii i historią.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
